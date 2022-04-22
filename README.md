@@ -8,4 +8,4 @@
 - 💬 Ask me about React, MongoDB, Js, ExpressJS
 - 📫 How to reach me: mayankdhyani.mbd@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank8887&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank8887&count_private=true&show_icons=true&theme=merko)
