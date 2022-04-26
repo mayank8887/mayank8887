@@ -14,9 +14,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+</div>
 
-
-### Hi there, I am Mayank Dhyani 👋
+---
+### :man_technologist: About me: I am Mayank Dhyani, A Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mayank8887)](https://github.com/ryo-ma/github-profile-trophy)
 - 🔭 I’m currently working on React projects
