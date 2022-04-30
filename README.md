@@ -22,6 +22,9 @@
 ### :man_technologist: About me: I am Mayank Dhyani, A Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mayank8887)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - 🔭 I’m currently working on React projects
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Full stack web development
